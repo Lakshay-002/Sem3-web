@@ -32,7 +32,6 @@ import A6Q5 from './Assignment-6/Q5'
 const App = () => {
   return (
     <div>
-      {/* --- Assignment 1 --- */}
       {/* <A1Q1 /> */}
       {/* <A1Q2 /> */}
       {/* <A1Q3 /> */}
